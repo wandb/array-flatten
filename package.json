@@ -1,5 +1,6 @@
 {
   "name": "array-flatten",
+  "type": "module",
   "version": "3.0.0",
   "description": "Flatten nested arrays",
   "main": "dist/index.js",
